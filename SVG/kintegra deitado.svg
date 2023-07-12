@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2 {
+        fill: #aa0e0e;
+        font-size: 113.82px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: CopperplateGothic-Bold, 'Copperplate Gothic Bold';
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        stroke: #aa0e0e;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        font-family: Elephant-Regular, Elephant;
+        font-size: 61.4px;
+      }
+
+      .cls-3 {
+        font-size: 26.11px;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(167.63 310.98)"><tspan x="0" y="0">KINTEGRA</tspan></text>
+  <text class="cls-3" transform="translate(169.66 337.57)"><tspan x="0" y="0">DI</tspan><tspan class="cls-1" x="30.44" y="0">S</tspan><tspan x="49.72" y="0">TRIBUIDORA</tspan></text>
+  <ellipse class="cls-4" cx="94.5" cy="299.5" rx="68" ry="79"/>
+  <text class="cls-2" transform="translate(51.48 337.27)"><tspan x="0" y="0">K</tspan></text>
+</svg>
